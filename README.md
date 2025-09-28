@@ -7,13 +7,13 @@ The workflow automates lead nurturing through **segment-based targeting** and **
 
 # Overview
 
-![Workflow Overview](./images/1.png)  
+![Workflow Overview](./1.png)  
 ![Workflow Overview - System for sending daily reports to managers](./images/12.png)  
-![Dataset Overview](./images/3.png)  
-![Dataset Overview](./images/4.png)  
-![Sample Email](./images/5.png)  
-![Performance Table](./images/6.png)  
-![Sample Email for Managers](./images/7.png)  
+![Dataset Overview](./3.png)  
+![Dataset Overview](./4.png)  
+![Sample Email](./5.png)  
+![Performance Table](./6.png)  
+![Sample Email for Managers](./7.png)  
 
 The system integrates with **Google Sheets** for lead data and **Gmail** for outbound communication.  
 It ensures that each lead receives the right email at the right time and that managers are kept informed with automatic daily reports.  
